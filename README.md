@@ -1,20 +1,78 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🦸‍♂️ ComicVerse – eCommerce Website
 
-# Run and deploy your AI Studio app
+Welcome to **ComicVerse**, an online eCommerce platform dedicated to comic lovers! 📚
+Explore, discover, and purchase your favorite comics from Marvel, DC, Manga, and more — all in one place.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MsZQybF2gxhYZNUKfLSP5NeN4gP3Q0aJ
+## 🚀 Features
 
-## Run Locally
+* 🛒 User-friendly shopping experience
+* 🔍 Search and filter comics by category, price, and popularity
+* ❤️ Wishlist functionality
+* 🧾 Secure checkout system
+* 👤 User authentication (Login/Register)
+* 📦 Order tracking
+* 📱 Fully responsive design (Mobile + Desktop)
 
-**Prerequisites:**  Node.js
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+* HTML5, CSS3, JavaScript
+* React.js (optional)
+
+**Backend:**
+
+* Node.js + Express.js
+
+**Database:**
+
+* MongoDB / Firebase
+
+**Other Tools:**
+
+* Stripe (for payments)
+* Cloudinary (for image storage)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 📈 Future Improvements
+
+* 🌍 Multi-language support
+* 🎨 Dark/Light theme toggle
+* 📦 Admin dashboard for product management
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 💡 Author
+
+Developed by **Rafchan Sami **
+📧 [rafchansami@gmail.com](mailto:rafchansami@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a ⭐ on GitHub!
